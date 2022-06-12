@@ -10,6 +10,7 @@ Proyecto de Control de Presupuesto hecho en Vite, Elaborado en [React](https://g
 
 ## Instalación de Librerias
 A continuación se indican las librerias necesarias para la ejecución del proyecto.
+
       npm i
       npm i gh-pages --save-dev
 
